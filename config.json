@@ -116,6 +116,14 @@
     },
     {
       "height": 6000,
+      "compressed_path": "./photos/michelle/DSC04111.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/michelle/DSC04111.placeholder.jpg",
+      "path": "./photos/michelle/DSC04111.jpg"
+    },
+    {
+      "height": 6000,
       "compressed_path": "./photos/michelle/DSC04113.min.jpg",
       "width": 4000,
       "compressed": false,
@@ -137,6 +145,14 @@
       "compressed": false,
       "placeholder_path": "./photos/michelle/DSC04129.placeholder.jpg",
       "path": "./photos/michelle/DSC04129.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/michelle/DSC04131.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/michelle/DSC04131.placeholder.jpg",
+      "path": "./photos/michelle/DSC04131.jpg"
     },
     {
       "height": 5831,
