@@ -1,111 +1,13 @@
 {
-  "lama temple": [
-    {
-      "height": 3376,
-      "compressed_path": "./photos/lama temple/DSC03596.min.jpg",
-      "width": 6000,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03596.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03596.jpg"
-    },
-    {
-      "height": 3664,
-      "compressed_path": "./photos/lama temple/DSC03598.min.jpg",
-      "width": 5624,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03598.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03598.jpg"
-    },
-    {
-      "height": 3607,
-      "compressed_path": "./photos/lama temple/DSC03602.min.jpg",
-      "width": 5787,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03602.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03602.jpg"
-    },
-    {
-      "height": 3647,
-      "compressed_path": "./photos/lama temple/DSC03604.min.jpg",
-      "width": 5613,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03604.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03604.jpg"
-    },
-    {
-      "height": 5867,
-      "compressed_path": "./photos/lama temple/DSC03606.min.jpg",
-      "width": 3911,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03606.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03606.jpg"
-    },
-    {
-      "height": 6000,
-      "compressed_path": "./photos/lama temple/DSC03608.min.jpg",
-      "width": 4000,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03608.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03608.jpg"
-    },
-    {
-      "height": 5890,
-      "compressed_path": "./photos/lama temple/DSC03610.min.jpg",
-      "width": 3927,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03610.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03610.jpg"
-    },
-    {
-      "height": 6000,
-      "compressed_path": "./photos/lama temple/DSC03613.min.jpg",
-      "width": 4000,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03613.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03613.jpg"
-    },
-    {
-      "height": 2482,
-      "compressed_path": "./photos/lama temple/DSC03615.min.jpg",
-      "width": 3544,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03615.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03615.jpg"
-    },
-    {
-      "height": 5867,
-      "compressed_path": "./photos/lama temple/DSC03616.min.jpg",
-      "width": 3911,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03616.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03616.jpg"
-    },
-    {
-      "height": 3376,
-      "compressed_path": "./photos/lama temple/DSC03619-5.min.jpg",
-      "width": 6000,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03619-5.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03619-5.jpg"
-    },
-    {
-      "height": 5519,
-      "compressed_path": "./photos/lama temple/DSC03622.min.jpg",
-      "width": 3679,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03622.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03622.jpg"
-    },
-    {
-      "height": 3635,
-      "compressed_path": "./photos/lama temple/DSC03623.min.jpg",
-      "width": 5867,
-      "compressed": false,
-      "placeholder_path": "./photos/lama temple/DSC03623.placeholder.jpg",
-      "path": "./photos/lama temple/DSC03623.jpg"
-    }
-  ],
   "michelle": [
+    {
+      "height": 5845,
+      "compressed_path": "./photos/michelle/DSC04078-2.min.jpg",
+      "width": 3897,
+      "compressed": false,
+      "placeholder_path": "./photos/michelle/DSC04078-2.placeholder.jpg",
+      "path": "./photos/michelle/DSC04078-2.jpg"
+    },
     {
       "height": 5845,
       "compressed_path": "./photos/michelle/DSC04078.min.jpg",
@@ -201,6 +103,120 @@
       "compressed": false,
       "placeholder_path": "./photos/michelle/DSC04174.placeholder.jpg",
       "path": "./photos/michelle/DSC04174.jpg"
+    }
+  ],
+  "china": [
+    {
+      "height": 4000,
+      "compressed_path": "./photos/china/DSC03565.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03565.placeholder.jpg",
+      "path": "./photos/china/DSC03565.jpg"
+    },
+    {
+      "height": 3376,
+      "compressed_path": "./photos/china/DSC03596.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03596.placeholder.jpg",
+      "path": "./photos/china/DSC03596.jpg"
+    },
+    {
+      "height": 3664,
+      "compressed_path": "./photos/china/DSC03598.min.jpg",
+      "width": 5624,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03598.placeholder.jpg",
+      "path": "./photos/china/DSC03598.jpg"
+    },
+    {
+      "height": 3607,
+      "compressed_path": "./photos/china/DSC03602.min.jpg",
+      "width": 5787,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03602.placeholder.jpg",
+      "path": "./photos/china/DSC03602.jpg"
+    },
+    {
+      "height": 3647,
+      "compressed_path": "./photos/china/DSC03604.min.jpg",
+      "width": 5613,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03604.placeholder.jpg",
+      "path": "./photos/china/DSC03604.jpg"
+    },
+    {
+      "height": 5867,
+      "compressed_path": "./photos/china/DSC03606.min.jpg",
+      "width": 3911,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03606.placeholder.jpg",
+      "path": "./photos/china/DSC03606.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/china/DSC03608.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03608.placeholder.jpg",
+      "path": "./photos/china/DSC03608.jpg"
+    },
+    {
+      "height": 5890,
+      "compressed_path": "./photos/china/DSC03610.min.jpg",
+      "width": 3927,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03610.placeholder.jpg",
+      "path": "./photos/china/DSC03610.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/china/DSC03613.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03613.placeholder.jpg",
+      "path": "./photos/china/DSC03613.jpg"
+    },
+    {
+      "height": 2482,
+      "compressed_path": "./photos/china/DSC03615.min.jpg",
+      "width": 3544,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03615.placeholder.jpg",
+      "path": "./photos/china/DSC03615.jpg"
+    },
+    {
+      "height": 5867,
+      "compressed_path": "./photos/china/DSC03616.min.jpg",
+      "width": 3911,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03616.placeholder.jpg",
+      "path": "./photos/china/DSC03616.jpg"
+    },
+    {
+      "height": 3376,
+      "compressed_path": "./photos/china/DSC03619-5.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03619-5.placeholder.jpg",
+      "path": "./photos/china/DSC03619-5.jpg"
+    },
+    {
+      "height": 5519,
+      "compressed_path": "./photos/china/DSC03622.min.jpg",
+      "width": 3679,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03622.placeholder.jpg",
+      "path": "./photos/china/DSC03622.jpg"
+    },
+    {
+      "height": 3635,
+      "compressed_path": "./photos/china/DSC03623.min.jpg",
+      "width": 5867,
+      "compressed": false,
+      "placeholder_path": "./photos/china/DSC03623.placeholder.jpg",
+      "path": "./photos/china/DSC03623.jpg"
     }
   ]
 }
