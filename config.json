@@ -2,11 +2,11 @@
   "michelle": [
     {
       "height": 5845,
-      "compressed_path": "./photos/michelle/DSC04078-2.min.jpg",
+      "compressed_path": "./photos/michelle/DSC04078.min.jpg",
       "width": 3897,
       "compressed": false,
-      "placeholder_path": "./photos/michelle/DSC04078-2.placeholder.jpg",
-      "path": "./photos/michelle/DSC04078-2.jpg"
+      "placeholder_path": "./photos/michelle/DSC04078.placeholder.jpg",
+      "path": "./photos/michelle/DSC04078.jpg"
     },
     {
       "height": 6000,
@@ -95,6 +95,128 @@
       "compressed": false,
       "placeholder_path": "./photos/michelle/DSC04174.placeholder.jpg",
       "path": "./photos/michelle/DSC04174.jpg"
+    }
+  ],
+  "ye eun": [
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00481.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00481.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00481.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00482.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00482.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00482.jpg"
+    },
+    {
+      "height": 5829,
+      "compressed_path": "./photos/ye eun/DSC00570.min.jpg",
+      "width": 3886,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00570.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00570.jpg"
+    },
+    {
+      "height": 5367,
+      "compressed_path": "./photos/ye eun/DSC00574.min.jpg",
+      "width": 3577,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00574.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00574.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00631.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00631.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00631.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00635.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00635.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00635.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00672.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00672.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00672.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00676.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00676.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00676.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/ye eun/DSC00734.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00734.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00734.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00833.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00833.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00833.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00835.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00835.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00835.jpg"
+    },
+    {
+      "height": 5824,
+      "compressed_path": "./photos/ye eun/DSC00851.min.jpg",
+      "width": 3884,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00851.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00851.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00852.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00852.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00852.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00874.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00874.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00874.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/ye eun/DSC00881.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/ye eun/DSC00881.placeholder.jpg",
+      "path": "./photos/ye eun/DSC00881.jpg"
     }
   ],
   "china": [
