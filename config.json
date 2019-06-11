@@ -253,6 +253,22 @@
       "path": "./photos/dana/DSC04341.jpg"
     },
     {
+      "height": 6000,
+      "compressed_path": "./photos/dana/DSC04351.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04351.placeholder.jpg",
+      "path": "./photos/dana/DSC04351.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/dana/DSC04360.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04360.placeholder.jpg",
+      "path": "./photos/dana/DSC04360.jpg"
+    },
+    {
       "height": 5593,
       "compressed_path": "./photos/dana/DSC04376.min.jpg",
       "width": 3729,
@@ -275,6 +291,14 @@
       "compressed": false,
       "placeholder_path": "./photos/dana/DSC04391.placeholder.jpg",
       "path": "./photos/dana/DSC04391.jpg"
+    },
+    {
+      "height": 5419,
+      "compressed_path": "./photos/dana/DSC04392.min.jpg",
+      "width": 3613,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04392.placeholder.jpg",
+      "path": "./photos/dana/DSC04392.jpg"
     }
   ]
 }
