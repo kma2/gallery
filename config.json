@@ -308,5 +308,95 @@
       "placeholder_path": "./photos/china/DSC03623.placeholder.jpg",
       "path": "./photos/china/DSC03623.jpg"
     }
+  ],
+  "dana": [
+    {
+      "height": 5620,
+      "compressed_path": "./photos/dana/DSC04198.min.jpg",
+      "width": 3747,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04198.placeholder.jpg",
+      "path": "./photos/dana/DSC04198.jpg"
+    },
+    {
+      "height": 3408,
+      "compressed_path": "./photos/dana/DSC04200.min.jpg",
+      "width": 5112,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04200.placeholder.jpg",
+      "path": "./photos/dana/DSC04200.jpg"
+    },
+    {
+      "height": 5516,
+      "compressed_path": "./photos/dana/DSC04217.min.jpg",
+      "width": 3677,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04217.placeholder.jpg",
+      "path": "./photos/dana/DSC04217.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/dana/DSC04218.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04218.placeholder.jpg",
+      "path": "./photos/dana/DSC04218.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/dana/DSC04223.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04223.placeholder.jpg",
+      "path": "./photos/dana/DSC04223.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/dana/DSC04330.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04330.placeholder.jpg",
+      "path": "./photos/dana/DSC04330.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/dana/DSC04341.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04341.placeholder.jpg",
+      "path": "./photos/dana/DSC04341.jpg"
+    },
+    {
+      "height": 5593,
+      "compressed_path": "./photos/dana/DSC04376.min.jpg",
+      "width": 3729,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04376.placeholder.jpg",
+      "path": "./photos/dana/DSC04376.jpg"
+    },
+    {
+      "height": 5741,
+      "compressed_path": "./photos/dana/DSC04384.min.jpg",
+      "width": 3827,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04384.placeholder.jpg",
+      "path": "./photos/dana/DSC04384.jpg"
+    },
+    {
+      "height": 5539,
+      "compressed_path": "./photos/dana/DSC04391.min.jpg",
+      "width": 3693,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04391.placeholder.jpg",
+      "path": "./photos/dana/DSC04391.jpg"
+    },
+    {
+      "height": 5419,
+      "compressed_path": "./photos/dana/DSC04392.min.jpg",
+      "width": 3613,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04392.placeholder.jpg",
+      "path": "./photos/dana/DSC04392.jpg"
+    }
   ]
 }
