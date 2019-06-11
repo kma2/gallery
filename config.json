@@ -205,9 +205,9 @@
       "path": "./photos/dana/DSC04198.jpg"
     },
     {
-      "height": 3408,
+      "height": 3827,
       "compressed_path": "./photos/dana/DSC04200.min.jpg",
-      "width": 5112,
+      "width": 5741,
       "compressed": false,
       "placeholder_path": "./photos/dana/DSC04200.placeholder.jpg",
       "path": "./photos/dana/DSC04200.jpg"
@@ -259,14 +259,6 @@
       "compressed": false,
       "placeholder_path": "./photos/dana/DSC04351.placeholder.jpg",
       "path": "./photos/dana/DSC04351.jpg"
-    },
-    {
-      "height": 6000,
-      "compressed_path": "./photos/dana/DSC04360.min.jpg",
-      "width": 4000,
-      "compressed": false,
-      "placeholder_path": "./photos/dana/DSC04360.placeholder.jpg",
-      "path": "./photos/dana/DSC04360.jpg"
     },
     {
       "height": 5593,
