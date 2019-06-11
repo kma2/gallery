@@ -197,6 +197,30 @@
   ],
   "dana": [
     {
+      "height": 6000,
+      "compressed_path": "./photos/dana/DSC04103.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04103.placeholder.jpg",
+      "path": "./photos/dana/DSC04103.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/dana/DSC04104.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04104.placeholder.jpg",
+      "path": "./photos/dana/DSC04104.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/dana/DSC04105.min.jpg",
+      "width": 4000,
+      "compressed": false,
+      "placeholder_path": "./photos/dana/DSC04105.placeholder.jpg",
+      "path": "./photos/dana/DSC04105.jpg"
+    },
+    {
       "height": 5620,
       "compressed_path": "./photos/dana/DSC04198.min.jpg",
       "width": 3747,
